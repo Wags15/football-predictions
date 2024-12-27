@@ -25,7 +25,6 @@ import time
 # Upload dataset to kaggle
 
 
-# Set up the WebDriver (replace 'path_to_chromedriver' with the actual path)
 driver = webdriver.Chrome()
 
 
